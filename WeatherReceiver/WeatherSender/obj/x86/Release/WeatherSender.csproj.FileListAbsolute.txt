@@ -1,0 +1,5 @@
+C:\Users\RAJ\Desktop\WeatherProject\WeatherReceiver\WeatherSender\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\RAJ\Desktop\WeatherProject\WeatherReceiver\WeatherSender\obj\x86\Release\test1.frmWeather.resources
+C:\Users\RAJ\Desktop\WeatherProject\WeatherReceiver\WeatherSender\obj\x86\Release\test1.Properties.Resources.resources
+C:\Users\RAJ\Desktop\WeatherProject\WeatherReceiver\WeatherSender\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\RAJ\Desktop\WeatherProject\WeatherReceiver\WeatherSender\obj\x86\Release\GenerateResource.write.1.tlog

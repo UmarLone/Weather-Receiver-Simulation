@@ -1,0 +1,11 @@
+C:\Documents and Settings\wordenj\Local Settings\Application Data\Temporary Projects\test1\bin\Debug\test1.exe
+C:\Documents and Settings\wordenj\Local Settings\Application Data\Temporary Projects\test1\bin\Debug\test1.pdb
+C:\Documents and Settings\wordenj\Local Settings\Application Data\Temporary Projects\test1\bin\Debug\ClsWeather.dll
+C:\Documents and Settings\wordenj\Local Settings\Application Data\Temporary Projects\test1\bin\Debug\ClsWeather.pdb
+C:\Documents and Settings\wordenj\Local Settings\Application Data\Temporary Projects\test1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\wordenj\Local Settings\Application Data\Temporary Projects\test1\obj\x86\Debug\test1.Properties.Resources.resources
+C:\Documents and Settings\wordenj\Local Settings\Application Data\Temporary Projects\test1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\wordenj\Local Settings\Application Data\Temporary Projects\test1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\wordenj\Local Settings\Application Data\Temporary Projects\test1\obj\x86\Debug\test1.exe
+C:\Documents and Settings\wordenj\Local Settings\Application Data\Temporary Projects\test1\obj\x86\Debug\test1.pdb
+C:\Documents and Settings\wordenj\Local Settings\Application Data\Temporary Projects\test1\obj\x86\Debug\test1.frmWeather.resources
